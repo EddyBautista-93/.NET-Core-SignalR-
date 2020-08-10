@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\bauti\\desktop\\signalr\\SignalRChat\\SignalRChat.csproj",
+  "FilePath": "c:\\Users\\bauti\\Desktop\\signalr\\SignalRChat\\SignalRChat.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,37 +20521,37 @@
   "RootNamespace": "SignalRChat",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\bauti\\desktop\\signalr\\SignalRChat\\Pages\\Index.cshtml",
+      "FilePath": "c:\\Users\\bauti\\Desktop\\signalr\\SignalRChat\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\bauti\\desktop\\signalr\\SignalRChat\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\bauti\\Desktop\\signalr\\SignalRChat\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\bauti\\desktop\\signalr\\SignalRChat\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\bauti\\Desktop\\signalr\\SignalRChat\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\bauti\\desktop\\signalr\\SignalRChat\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\bauti\\Desktop\\signalr\\SignalRChat\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\bauti\\desktop\\signalr\\SignalRChat\\Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\bauti\\Desktop\\signalr\\SignalRChat\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\bauti\\desktop\\signalr\\SignalRChat\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\bauti\\Desktop\\signalr\\SignalRChat\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\bauti\\desktop\\signalr\\SignalRChat\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\bauti\\Desktop\\signalr\\SignalRChat\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     }

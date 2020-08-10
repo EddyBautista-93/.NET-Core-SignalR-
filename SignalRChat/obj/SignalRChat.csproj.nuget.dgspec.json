@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bauti\\desktop\\signalr\\SignalRChat\\SignalRChat.csproj": {}
+    "C:\\Users\\bauti\\Desktop\\signalr\\signalrchat\\SignalRChat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bauti\\desktop\\signalr\\SignalRChat\\SignalRChat.csproj": {
+    "C:\\Users\\bauti\\Desktop\\signalr\\signalrchat\\SignalRChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bauti\\desktop\\signalr\\SignalRChat\\SignalRChat.csproj",
+        "projectUniqueName": "C:\\Users\\bauti\\Desktop\\signalr\\signalrchat\\SignalRChat.csproj",
         "projectName": "SignalRChat",
-        "projectPath": "C:\\Users\\bauti\\desktop\\signalr\\SignalRChat\\SignalRChat.csproj",
+        "projectPath": "C:\\Users\\bauti\\Desktop\\signalr\\signalrchat\\SignalRChat.csproj",
         "packagesPath": "C:\\Users\\bauti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bauti\\desktop\\signalr\\SignalRChat\\obj\\",
+        "outputPath": "C:\\Users\\bauti\\Desktop\\signalr\\signalrchat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

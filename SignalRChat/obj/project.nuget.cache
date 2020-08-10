@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0F+Zb1hdr1P8UBZ6ms8zlpyWTUPYfXwZYbFtia19VEoXZd1Mym4i8Jbc2xMr9QC+L8xcAH0PV+i9HJc5LTEufg==",
+  "dgSpecHash": "KIafJ9WyRfx20iBAa2wWjjwZiRvRYFIEwk5zvp9PauBe8CJKf0wDvrrA2yg86MPMZyRcFGzCzZlJEW3D3Bgv+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bauti\\desktop\\signalr\\SignalRChat\\SignalRChat.csproj",
+  "projectFilePath": "C:\\Users\\bauti\\Desktop\\signalr\\signalrchat\\SignalRChat.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
